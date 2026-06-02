@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "studio.aequinode.sudoku",
+      "sha256_cert_fingerprints": [
+        "3B:AB:01:4D:75:83:B4:24:E8:84:B4:48:1A:B4:CC:48:4B:8D:AB:64:84:88:0C:5E:92:AB:B7:81:A9:FD:16:C2"
+      ]
+    }
+  }
+]
