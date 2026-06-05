@@ -8,5 +8,16 @@
         "37:A2:83:48:AE:B2:E1:6C:D1:59:E0:03:99:45:3A:85:72:A9:81:D0:6C:DC:CE:52:C5:9D:3C:5D:41:84:8F:C3"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.snickel.fooser",
+      "sha256_cert_fingerprints": [
+        "F3:A4:86:A2:E6:2D:A9:24:C2:D1:6C:D8:23:31:21:6C:97:3A:05:88:23:2E:27:5D:07:B1:86:E2:2C:5A:96:97",
+        "EE:94:B8:6E:6A:D7:DD:AE:D6:AA:1D:46:E2:FE:62:1E:99:0D:A8:4D:2D:CC:6B:DA:16:B1:D1:3F:66:C4:19:18"
+      ]
+    }
   }
 ]
